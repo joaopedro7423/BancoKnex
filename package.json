@@ -1,0 +1,23 @@
+{
+  "name": "bancoknex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopedro7423/BancoKnex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaopedro7423/BancoKnex/issues"
+  },
+  "homepage": "https://github.com/joaopedro7423/BancoKnex#readme",
+  "dependencies": {
+    "knex": "^0.21.8",
+    "mysql2": "^2.2.5"
+  }
+}
